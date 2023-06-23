@@ -39,7 +39,7 @@ function App() {
           Random Jokes 😆
         </h1>
         <div className="border-solid border-2 border-indigo-600 rounded-lg mt-5">
-          <p className=" text-white text-xl font-serif px-7 mt-4">
+          <p className=" text-white text-xl font-serif px-7 py-3">
             {jokes[0]} <br/> {jokes[1]}
           </p>
         </div>
